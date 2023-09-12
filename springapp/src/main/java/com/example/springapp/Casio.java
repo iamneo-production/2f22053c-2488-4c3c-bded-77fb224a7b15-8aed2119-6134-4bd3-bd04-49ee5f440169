@@ -6,3 +6,17 @@ public class Casio implements Calculator{
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
